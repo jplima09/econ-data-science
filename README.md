@@ -17,3 +17,6 @@ O objetivo principal foi identificar padrões de criminalidade e localizar **out
 
 # Como visualizar:
 Basta abrir o arquivo `.ipynb` presente neste repositório para visualizar o código, as limpezas de dados e os gráficos gerados.
+
+<img width="1307" height="756" alt="image" src="https://github.com/user-attachments/assets/5dca62f5-519b-4ba2-9bab-ac2064b31c08" />
+
